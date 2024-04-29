@@ -1,4 +1,4 @@
 # 1strepository
-this is my first repository 
+This is my first repository 
 <br>
-author name - Utkarsh Srivatava
+Author name - Utkarsh Srivatava
